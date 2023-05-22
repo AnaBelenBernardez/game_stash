@@ -1,0 +1,74 @@
+[
+  {
+    "platform": "Nintendo Switch",
+    "goty": true,
+    "date": "2017",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "image": "https://example.com/breath_of_the_wild.jpg",
+    "text": "The Legend of Zelda: Breath of the Wild is an action-adventure game set in an open world where players control Link as he embarks on a quest to rescue Princess Zelda and defeat the Calamity Ganon."
+  },
+  {
+    "platform": "Nintendo 64",
+    "goty": true,
+    "date": "1998",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "image": "https://example.com/ocarina_of_time.jpg",
+    "text": "The Legend of Zelda: Ocarina of Time is an action-adventure game that follows the story of Link as he sets out on a journey to stop the evil Ganondorf and rescue Princess Zelda in the land of Hyrule."
+  },
+  {
+    "platform": "Nintendo GameCube",
+    "goty": false,
+    "date": "2003",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "image": "https://example.com/the_wind_waker.jpg",
+    "text": "The Legend of Zelda: The Wind Waker is an action-adventure game where players control Link as he sails across the Great Sea, battles enemies, and explores dungeons in an effort to save his sister and defeat the evil Ganon."
+  },
+  {
+    "platform": "Nintendo Wii",
+    "goty": true,
+    "date": "2006",
+    "title": "The Legend of Zelda: Twilight Princess",
+    "image": "https://example.com/twilight_princess.jpg",
+    "text": "The Legend of Zelda: Twilight Princess is an action-adventure game that follows Link as he transforms into a wolf and explores the Twilight Realm to prevent the kingdom of Hyrule from being engulfed in darkness."
+  },
+  {
+    "platform": "Nintendo 3DS",
+    "goty": false,
+    "date": "2013",
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "image": "https://example.com/a_link_between_worlds.jpg",
+    "text": "The Legend of Zelda: A Link Between Worlds is a sequel to the Super Nintendo game A Link to the Past. Players control Link as he navigates the kingdom of Hyrule and a parallel world called Lorule to rescue Princess Zelda and defeat the villain Yuga."
+  },
+  {
+    "platform": "Nintendo Game Boy",
+    "goty": false,
+    "date": "1993",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "image": "https://example.com/links_awakening.jpg",
+    "text": "The Legend of Zelda: Link's Awakening is an action-adventure game where Link finds himself stranded on the mysterious Koholint Island. To escape, he must awaken the Wind Fish by collecting the Eight Instruments of the Sirens."
+  },
+  {
+    "platform": "Nintendo DS",
+    "goty": false,
+    "date": "2007",
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "image": "https://example.com/phantom_hourglass.jpg",
+    "text": "The Legend of Zelda: Phantom Hourglass is a direct sequel to The Wind Waker. Players control Link as he sets out on a quest to rescue Tetra, the captain of a pirate ship, from the clutches of the Ghost Ship and the evil Bellum."
+  },
+  {
+    "platform": "Nintendo Wii U",
+    "goty": false,
+    "date": "2013",
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "image": "https://example.com/the_wind_waker_hd.jpg",
+    "text": "The Legend of Zelda: The Wind Waker HD is an enhanced remaster of the original GameCube game. It features updated graphics, gameplay tweaks, and Miiverse integration, allowing players to share messages and pictures with others."
+  },
+  {
+    "platform": "Nintendo Switch",
+    "goty": false,
+    "date": "2020",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "image": "https://example.com/links_awakening_switch.jpg",
+    "text": "The Legend of Zelda: Link's Awakening is a remake of the Game Boy game of the same name. Players control Link as he explores the mysterious Koholint Island, solves puzzles, and battles enemies to awaken the Wind Fish."
+  }
+]
