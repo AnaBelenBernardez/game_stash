@@ -1,6 +1,6 @@
 import "./App.css";
 import zeldaGames from "./data/zelda.json";
-import { GameCard } from "./components/GameCard";
+import { Timeline } from "./components/Timeline";
 
 function App() {
   return (
@@ -9,15 +9,7 @@ function App() {
         <h1>My Videogame Stash</h1>
       </header>
       <main>
-        <ul>
-          {zeldaGames.map((game, index) => {
-            return (
-              <li key={index}>
-                <GameCard game={game} />
-              </li>
-            );
-          })}
-        </ul>
+        <Timeline zeldaGames={zeldaGames} />
       </main>
       <footer>Ana Belén Bernárdez Martínez 2023</footer>
     </div>
