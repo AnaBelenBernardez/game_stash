@@ -1,74 +1,100 @@
 [
   {
-    "platform": "Nintendo Switch",
-    "goty": true,
+    "platform": "PC",
+    "date": "2011",
+    "title": "The Elder Scrolls V: Skyrim",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
+    "text": "Expansive open-world RPG where players take on the role of the Dragonborn, with the freedom to explore a richly detailed world, battle dragons, and embark on countless quests, offering a truly immersive and epic adventure."
+  },
+  {
+    "platform": "PC",
+    "date": "2021",
+    "title": "Valheim (early access)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Valheim_2021_logo.jpg?20210213121914",
+    "text": "Cooperative survival game set in a Viking-inspired world, where players must gather resources, build structures, and face off against formidable creatures in order to progress and ultimately conquer the realm, offering a challenging and immersive multiplayer experience."
+  },
+  {
+    "platform": "PC",
+    "date": "2016",
+    "title": "Dead By Daylight",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Dead_by_Daylight_Steam_header.jpg/220px-Dead_by_Daylight_Steam_header.jpg",
+    "text": "Asymmetric multiplayer horror game where players can take on the role of either a savage killer or one of four survivors trying to escape. With its intense cat-and-mouse gameplay, unique characters, and ever-changing environments, Dead by Daylight provides a thrilling and suspenseful experience."
+  },
+  {
+    "platform": "PC",
+    "date": "2016",
+    "title": "Stardew Valley",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Logo_of_Stardew_Valley.png/220px-Logo_of_Stardew_Valley.png",
+    "text": "Farming simulation game where players inherit and manage their own farm, while also engaging in various activities such as fishing, mining, and building relationships with the townsfolk. With its charming pixel art style, relaxing gameplay, and a vast array of content to explore, Stardew Valley offers a delightful and immersive experience of rural life and personal growth."
+  },
+  {
+    "platform": "PS2",
+    "date": "2005",
+    "title": "Need For Speed: Most Wanted",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg",
+    "text": "Racing game that combines thrilling street racing with intense police pursuits. Players aim to climb the ranks of the 'Blacklist' by defeating rival drivers and evading law enforcement, all while customizing their cars and exploring the expansive city of Rockport. "
+  },
+  {
+    "platform": "N64",
+    "date": "2000",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg/220px-The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg",
+    "text": "Action-adventure game set in the mystical world of Hyrule. The game follows Link's quest to save the land from destruction by a falling moon, with a unique time-traveling mechanic that requires players to relive the same three days repeatedly."
+  },
+  {
+    "platform": "NDS",
+    "date": "2009",
+    "title": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/DragonQuestIXBoxArtJP.png/220px-DragonQuestIXBoxArtJP.png",
+    "text": "Role-playing game where players create and customize their own hero and embark on a grand adventure to protect the world from a threat. With its charming visuals, engaging storyline, and turn-based combat, Dragon Quest IX offers a vast world to explore, filled with memorable characters and challenging quests."
+  },
+  {
+    "platform": "PS4",
+    "date": "2018",
+    "title": "God of War",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/God_of_War_4_cover.jpg/220px-God_of_War_4_cover.jpg",
+    "text": "It is an action-adventure game that serves as a soft reboot of the popular God of War series. Set in Norse mythology, players control Kratos, the former Greek god of war, who embarks on a journey with his son Atreus. Breathtaking visuals, intense combat, and a deep narrative exploring themes of parenthood and redemption."
+  },
+  {
+    "platform": "PS4",
     "date": "2017",
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "image": "https://example.com/breath_of_the_wild.jpg",
-    "text": "The Legend of Zelda: Breath of the Wild is an action-adventure game set in an open world where players control Link as he embarks on a quest to rescue Princess Zelda and defeat the Calamity Ganon."
+    "title": "Horizon Zero Dawn",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Horizon_Zero_Dawn.jpg/220px-Horizon_Zero_Dawn.jpg",
+    "text": "Action role-playing game set in a post-apocalyptic world where humanity has regressed to a tribal society, and robotic creatures roam the land. Players take on the role of Aloy, a skilled hunter, as she embarks on a quest to uncover the truth about her origins and the mysteries of the world. Stunning visuals, immersive open world, and a captivating story."
   },
   {
-    "platform": "Nintendo 64",
-    "goty": true,
-    "date": "1998",
-    "title": "The Legend of Zelda: Ocarina of Time",
-    "image": "https://example.com/ocarina_of_time.jpg",
-    "text": "The Legend of Zelda: Ocarina of Time is an action-adventure game that follows the story of Link as he sets out on a journey to stop the evil Ganondorf and rescue Princess Zelda in the land of Hyrule."
+    "platform": "PS4",
+    "date": "2019",
+    "title": "Mutazione",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mutazione_Cover_Art.png/220px-Mutazione_Cover_Art.png",
+    "text": "Narrative-driven adventure game set in a mutant-infested community called Mutazione. Players assume the role of Kai, a young girl who visits her ailing grandfather and becomes involved in the lives of the eccentric residents. Beautiful hand-drawn visuals, serene atmosphere, and emphasis on relationships and personal growth."
   },
   {
-    "platform": "Nintendo GameCube",
-    "goty": false,
-    "date": "2003",
-    "title": "The Legend of Zelda: The Wind Waker",
-    "image": "https://example.com/the_wind_waker.jpg",
-    "text": "The Legend of Zelda: The Wind Waker is an action-adventure game where players control Link as he sails across the Great Sea, battles enemies, and explores dungeons in an effort to save his sister and defeat the evil Ganon."
+    "platform": "Amstrad PCW",
+    "date": "1986",
+    "title": "Batman (Ocean Software)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Batman_%28Amstrad_CPC_game%29.jpg/220px-Batman_%28Amstrad_CPC_game%29.jpg",
+    "text": "Side-scrolling action game where players control Batman as he battles Gotham City's villains. With platforming elements and atmospheric visuals, it offers an early gaming experience of being the iconic Dark Knight."
   },
   {
-    "platform": "Nintendo Wii",
-    "goty": true,
-    "date": "2006",
-    "title": "The Legend of Zelda: Twilight Princess",
-    "image": "https://example.com/twilight_princess.jpg",
-    "text": "The Legend of Zelda: Twilight Princess is an action-adventure game that follows Link as he transforms into a wolf and explores the Twilight Realm to prevent the kingdom of Hyrule from being engulfed in darkness."
+    "platform": "Meta Quest 2",
+    "date": "2021",
+    "title": "Resident Evil 4 VR",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Resi4-gc-cover.jpg/220px-Resi4-gc-cover.jpg",
+    "text": "Players step into the shoes of Leon S. Kennedy as he navigates a sinister village and confronts grotesque creatures infected by a parasitic organism."
   },
   {
-    "platform": "Nintendo 3DS",
-    "goty": false,
-    "date": "2013",
-    "title": "The Legend of Zelda: A Link Between Worlds",
-    "image": "https://example.com/a_link_between_worlds.jpg",
-    "text": "The Legend of Zelda: A Link Between Worlds is a sequel to the Super Nintendo game A Link to the Past. Players control Link as he navigates the kingdom of Hyrule and a parallel world called Lorule to rescue Princess Zelda and defeat the villain Yuga."
+    "platform": "Wii",
+    "date": "2010",
+    "title": "Guitar Hero: Warriors Of Rock",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Guitar_Hero_Warriors_of_Rock_Game_Cover.jpg/220px-Guitar_Hero_Warriors_of_Rock_Game_Cover.jpg",
+    "text": "Rhythm-based music game where players use a guitar-shaped controller to simulate playing rock music. With an epic storyline and a diverse tracklist, it delivers an immersive experience for all the metalheads and fans of the franchise."
   },
   {
-    "platform": "Nintendo Game Boy",
-    "goty": false,
-    "date": "1993",
-    "title": "The Legend of Zelda: Link's Awakening",
-    "image": "https://example.com/links_awakening.jpg",
-    "text": "The Legend of Zelda: Link's Awakening is an action-adventure game where Link finds himself stranded on the mysterious Koholint Island. To escape, he must awaken the Wind Fish by collecting the Eight Instruments of the Sirens."
-  },
-  {
-    "platform": "Nintendo DS",
-    "goty": false,
-    "date": "2007",
-    "title": "The Legend of Zelda: Phantom Hourglass",
-    "image": "https://example.com/phantom_hourglass.jpg",
-    "text": "The Legend of Zelda: Phantom Hourglass is a direct sequel to The Wind Waker. Players control Link as he sets out on a quest to rescue Tetra, the captain of a pirate ship, from the clutches of the Ghost Ship and the evil Bellum."
-  },
-  {
-    "platform": "Nintendo Wii U",
-    "goty": false,
-    "date": "2013",
-    "title": "The Legend of Zelda: The Wind Waker HD",
-    "image": "https://example.com/the_wind_waker_hd.jpg",
-    "text": "The Legend of Zelda: The Wind Waker HD is an enhanced remaster of the original GameCube game. It features updated graphics, gameplay tweaks, and Miiverse integration, allowing players to share messages and pictures with others."
-  },
-  {
-    "platform": "Nintendo Switch",
-    "goty": false,
-    "date": "2020",
-    "title": "The Legend of Zelda: Link's Awakening",
-    "image": "https://example.com/links_awakening_switch.jpg",
-    "text": "The Legend of Zelda: Link's Awakening is a remake of the Game Boy game of the same name. Players control Link as he explores the mysterious Koholint Island, solves puzzles, and battles enemies to awaken the Wind Fish."
+    "platform": "NDS",
+    "date": "2008",
+    "title": "Rhythm Paradise",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/RhythmHeaven.PNG/256px-RhythmHeaven.PNG",
+    "text": "Rhythm-based music game where players engage in a series of mini-games with catchy tunes and unique challenges. With its simple yet addictive gameplay, charming visuals, and a delightful soundtrack offers a fun and rhythmic experience that keeps players grooving to the beat."
   }
 ]
