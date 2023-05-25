@@ -11,7 +11,9 @@ function App() {
       <main>
         <Timeline zeldaGames={zeldaGames} />
       </main>
-      <footer>Ana Belén Bernárdez Martínez 2023</footer>
+      <footer>
+        <p>Ana Belén Bernárdez Martínez 2023</p>
+      </footer>
     </div>
   );
 }

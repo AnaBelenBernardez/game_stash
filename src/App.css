@@ -1,5 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.App > header,
+.App > footer {
+  display: grid;
+  place-content: center;
+  padding: 2rem;
+}
+
+.App > header h1 {
+  font-family: "Press Start 2P", cursive;
+  font-size: 4rem;
+}
+
+.App > footer p {
+  font-weight: bold;
+  font-family: "Press Start 2P", cursive;
 }

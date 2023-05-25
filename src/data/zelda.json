@@ -4,35 +4,35 @@
     "date": "2011",
     "title": "The Elder Scrolls V: Skyrim",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
-    "text": "Expansive open-world RPG where players take on the role of the Dragonborn, with the freedom to explore a richly detailed world, battle dragons, and embark on countless quests, offering a truly immersive and epic adventure."
+    "text": "Expansive open-world RPG where players take on the role of the Dragonborn, with the freedom to explore a richly detailed world, battle dragons, and embark on countless quests."
   },
   {
     "platform": "PC",
     "date": "2021",
     "title": "Valheim (early access)",
     "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Valheim_2021_logo.jpg?20210213121914",
-    "text": "Cooperative survival game set in a Viking-inspired world, where players must gather resources, build structures, and face off against formidable creatures in order to progress and ultimately conquer the realm, offering a challenging and immersive multiplayer experience."
+    "text": "Cooperative survival game set in a Viking-inspired world, where players must gather resources, build structures, and face off against formidable creatures in order to progress and ultimately conquer the realm."
   },
   {
     "platform": "PC",
     "date": "2016",
     "title": "Dead By Daylight",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Dead_by_Daylight_Steam_header.jpg/220px-Dead_by_Daylight_Steam_header.jpg",
-    "text": "Asymmetric multiplayer horror game where players can take on the role of either a savage killer or one of four survivors trying to escape. With its intense cat-and-mouse gameplay, unique characters, and ever-changing environments, Dead by Daylight provides a thrilling and suspenseful experience."
+    "text": "Asymmetric multiplayer horror game where players can take on the role of either a savage killer or one of four survivors trying to escape."
   },
   {
     "platform": "PC",
     "date": "2016",
     "title": "Stardew Valley",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Logo_of_Stardew_Valley.png/220px-Logo_of_Stardew_Valley.png",
-    "text": "Farming simulation game where players inherit and manage their own farm, while also engaging in various activities such as fishing, mining, and building relationships with the townsfolk. With its charming pixel art style, relaxing gameplay, and a vast array of content to explore, Stardew Valley offers a delightful and immersive experience of rural life and personal growth."
+    "text": "Farming simulation game where players inherit and manage their own farm, while also engaging in various activities such as fishing, mining, and building relationships with the townsfolk."
   },
   {
     "platform": "PS2",
     "date": "2005",
     "title": "Need For Speed: Most Wanted",
     "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg",
-    "text": "Racing game that combines thrilling street racing with intense police pursuits. Players aim to climb the ranks of the 'Blacklist' by defeating rival drivers and evading law enforcement, all while customizing their cars and exploring the expansive city of Rockport. "
+    "text": "Racing game that combines thrilling street racing with intense police pursuits. Players aim to climb the ranks of the 'Blacklist' by defeating rival drivers and evading law enforcement, all while customizing their cars and exploring the city. "
   },
   {
     "platform": "N64",
@@ -46,28 +46,28 @@
     "date": "2009",
     "title": "Dragon Quest IX: Sentinels of the Starry Skies",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/DragonQuestIXBoxArtJP.png/220px-DragonQuestIXBoxArtJP.png",
-    "text": "Role-playing game where players create and customize their own hero and embark on a grand adventure to protect the world from a threat. With its charming visuals, engaging storyline, and turn-based combat, Dragon Quest IX offers a vast world to explore, filled with memorable characters and challenging quests."
+    "text": "Role-playing game where players create and customize their own hero and embark on a grand adventure to protect the world from a threat. With turn-based combat, offers a vast world to explore."
   },
   {
     "platform": "PS4",
     "date": "2018",
     "title": "God of War",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/God_of_War_4_cover.jpg/220px-God_of_War_4_cover.jpg",
-    "text": "It is an action-adventure game that serves as a soft reboot of the popular God of War series. Set in Norse mythology, players control Kratos, the former Greek god of war, who embarks on a journey with his son Atreus. Breathtaking visuals, intense combat, and a deep narrative exploring themes of parenthood and redemption."
+    "text": "Action-adventure game set in Norse mythology, players control Kratos, the former Greek god of war, who embarks on a journey with his son Atreus."
   },
   {
     "platform": "PS4",
     "date": "2017",
     "title": "Horizon Zero Dawn",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Horizon_Zero_Dawn.jpg/220px-Horizon_Zero_Dawn.jpg",
-    "text": "Action role-playing game set in a post-apocalyptic world where humanity has regressed to a tribal society, and robotic creatures roam the land. Players take on the role of Aloy, a skilled hunter, as she embarks on a quest to uncover the truth about her origins and the mysteries of the world. Stunning visuals, immersive open world, and a captivating story."
+    "text": "Action role-playing game set in a post-apocalyptic world where humanity has regressed to a tribal society, and robotic creatures roam the land. Players take on the role of Aloy, a skilled hunter, as she embarks on a quest to uncover the truth about her origins and the mysteries of the world."
   },
   {
     "platform": "PS4",
     "date": "2019",
     "title": "Mutazione",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mutazione_Cover_Art.png/220px-Mutazione_Cover_Art.png",
-    "text": "Narrative-driven adventure game set in a mutant-infested community called Mutazione. Players assume the role of Kai, a young girl who visits her ailing grandfather and becomes involved in the lives of the eccentric residents. Beautiful hand-drawn visuals, serene atmosphere, and emphasis on relationships and personal growth."
+    "text": "Narrative-driven adventure game set in a mutant-infested community. Players assume the role of Kai, a young girl who visits her ailing grandfather and becomes involved in the lives of the eccentric residents."
   },
   {
     "platform": "Amstrad PCW",
@@ -88,13 +88,41 @@
     "date": "2010",
     "title": "Guitar Hero: Warriors Of Rock",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Guitar_Hero_Warriors_of_Rock_Game_Cover.jpg/220px-Guitar_Hero_Warriors_of_Rock_Game_Cover.jpg",
-    "text": "Rhythm-based music game where players use a guitar-shaped controller to simulate playing rock music. With an epic storyline and a diverse tracklist, it delivers an immersive experience for all the metalheads and fans of the franchise."
+    "text": "Rhythm-based music game where players use a guitar-shaped controller to simulate playing rock music. It delivers an immersive experience for all the metalheads and fans of the franchise."
   },
   {
     "platform": "NDS",
     "date": "2008",
     "title": "Rhythm Paradise",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/RhythmHeaven.PNG/256px-RhythmHeaven.PNG",
-    "text": "Rhythm-based music game where players engage in a series of mini-games with catchy tunes and unique challenges. With its simple yet addictive gameplay, charming visuals, and a delightful soundtrack offers a fun and rhythmic experience that keeps players grooving to the beat."
+    "text": "Rhythm-based music game where players engage in a series of mini-games with catchy tunes and unique challenges."
+  },
+  {
+    "platform": "PC",
+    "date": "2020",
+    "title": "Spiritfarer",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Spiritfarer_cover_art.jpg/220px-Spiritfarer_cover_art.jpg",
+    "text": "Cozy management game where you are Stella, that takes on the role of the 'Spiritfarer', guiding spirits to their final journey in the afterlife."
+  },
+  {
+    "platform": "NDS",
+    "date": "2007",
+    "title": "Professor Layton and the Curious Village",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Professor_Layton_and_the_Curious_Village_NA_Boxart.JPG/220px-Professor_Layton_and_the_Curious_Village_NA_Boxart.JPG",
+    "text": "Puzzle-solving adventure game where players control Professor Hershel Layton and his apprentice, Luke Triton, as they investigate the mysterious village of St. Mystere. "
+  },
+  {
+    "platform": "PS3",
+    "date": "2007",
+    "title": "Portal",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Portal_standalonebox.jpg/220px-Portal_standalonebox.jpg",
+    "text": "With its mind-bending puzzles, dark humor, and a memorable antagonist in the form of GLaDOS, Portal offers a unique and immersive experience that challenges players' critical thinking and spatial awareness."
+  },
+  {
+    "platform": "Wii",
+    "date": "2007",
+    "title": "Super Mario Galaxy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/SuperMarioGalaxy.jpg/220px-SuperMarioGalaxy.jpg",
+    "text": "With its innovative gravity-based gameplay mechanics, imaginative level design, and a charming soundtrack, Super Mario Galaxy offers a captivating and whimsical journey through galaxies filled with platforming challenges and memorable characters."
   }
 ]
