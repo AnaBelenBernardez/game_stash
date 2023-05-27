@@ -1,5 +1,5 @@
 import "./App.css";
-import zeldaGames from "./data/zelda.json";
+import myGames from "./data/games.json";
 import { Timeline } from "./components/Timeline";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
         <h1>My Videogame Stash</h1>
       </header>
       <main>
-        <Timeline zeldaGames={zeldaGames} />
+        <Timeline myGames={myGames} />
       </main>
       <footer>
         <p>Ana Belén Bernárdez Martínez 2023</p>
