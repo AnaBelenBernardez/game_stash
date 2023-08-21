@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 img {
   max-width: 100%;
 }
@@ -23,21 +24,51 @@ main {
 .App > footer {
   display: grid;
   place-content: center;
-  padding: 3rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+.App > header {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .App > header h1 {
   font-family: "Press Start 2P", cursive;
-  font-size: 4rem;
-  margin-bottom: 2rem;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  line-height: 1.8rem;
+}
+
+.App > header h1 span {
+  display: block;
 }
 
 .App > footer p {
   font-weight: bold;
   font-family: "Press Start 2P", cursive;
-  margin-top: 2rem;
+  margin-top: 1rem;
+  font-size: 0.6rem;
 }
 
 footer a {
   text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .App > header h1 {
+    font-family: "Press Start 2P", cursive;
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    line-height: 5rem;
+  }
+
+  .App > footer p {
+    font-weight: bold;
+    font-family: "Press Start 2P", cursive;
+    margin-top: 2rem;
+    font-size: 1rem;
+  }
 }

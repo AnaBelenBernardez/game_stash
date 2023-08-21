@@ -2,12 +2,18 @@ import "./App.css";
 import myGames from "./data/games.json";
 import { Timeline } from "./components/Timeline";
 import ScrollToTopButton from "./components/ScrollToTopButton";
+import Nav from "./components/Nav";
 
 function App() {
   return (
     <div className="App">
       <header>
-        <h1>My Videogame Stash</h1>
+        <h1>
+          <span>My</span>
+          <span>Videogame</span>
+          <span>Stash</span>
+        </h1>
+        <Nav />
       </header>
       <ScrollToTopButton />
       <main>

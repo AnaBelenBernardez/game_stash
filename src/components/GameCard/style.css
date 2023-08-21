@@ -9,10 +9,12 @@
   align-items: center;
   justify-content: center;
   min-height: 500px;
+  max-width: 80%;
 }
 
 h2 {
   font-family: "Press Start 2P", cursive;
+  line-height: 1.7rem;
 }
 
 .gameCard > *:not(:last-child) {
@@ -67,4 +69,10 @@ h2 {
   align-items: center;
   justify-content: center;
   padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .gameCard {
+    max-width: 100%;
+  }
 }
