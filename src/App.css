@@ -23,15 +23,21 @@ main {
 .App > footer {
   display: grid;
   place-content: center;
-  padding: 2rem;
+  padding: 3rem;
 }
 
 .App > header h1 {
   font-family: "Press Start 2P", cursive;
   font-size: 4rem;
+  margin-bottom: 2rem;
 }
 
 .App > footer p {
   font-weight: bold;
   font-family: "Press Start 2P", cursive;
+  margin-top: 2rem;
+}
+
+footer a {
+  text-decoration: none;
 }
