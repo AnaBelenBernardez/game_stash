@@ -31,7 +31,6 @@ main {
 .App > header {
   margin-top: 2rem;
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -46,15 +45,17 @@ main {
   display: block;
 }
 
-.App > footer p {
+footer a {
+  text-decoration: none;
+  color: black;
   font-weight: bold;
   font-family: "Press Start 2P", cursive;
   margin-top: 1rem;
-  font-size: 0.6rem;
+  font-size: 12px;
 }
 
-footer a {
-  text-decoration: none;
+footer a:hover {
+  color: #22b300;
 }
 
 @media (min-width: 768px) {

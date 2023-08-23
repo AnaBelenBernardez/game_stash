@@ -1,4 +1,18 @@
 .navigator {
   display: flex;
   flex-direction: column;
+  margin-left: 10rem;
+  gap: 2rem;
+  width: 100px;
+  height: 100%;
+}
+
+.socials {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.socials:hover svg path {
+  fill: #22b300;
 }
