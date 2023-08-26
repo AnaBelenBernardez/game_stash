@@ -20,28 +20,29 @@ main {
   flex-grow: 1;
 }
 
-.App > header,
-.App > footer {
+header,
+footer {
   display: grid;
-  place-content: center;
   padding: 2rem;
   margin: auto;
 }
 
-.App > header {
-  margin-top: 2rem;
+header {
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  padding: 2rem;
+  margin: 2rem 20%;
 }
 
-.App > header h1 {
+header h1 {
   font-family: "Press Start 2P", cursive;
   font-size: 1.8rem;
   margin-bottom: 1rem;
   line-height: 1.8rem;
 }
 
-.App > header h1 span {
+header h1 span {
   display: block;
 }
 
@@ -59,14 +60,14 @@ footer a:hover {
 }
 
 @media (min-width: 768px) {
-  .App > header h1 {
+  header h1 {
     font-family: "Press Start 2P", cursive;
     font-size: 4rem;
     margin-bottom: 2rem;
     line-height: 5rem;
   }
 
-  .App > footer p {
+  footer p {
     font-weight: bold;
     font-family: "Press Start 2P", cursive;
     margin-top: 2rem;

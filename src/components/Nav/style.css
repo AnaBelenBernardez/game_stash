@@ -1,7 +1,6 @@
 .navigator {
   display: flex;
   flex-direction: column;
-  margin-left: 10rem;
   gap: 2rem;
   width: 100px;
   height: 100%;
