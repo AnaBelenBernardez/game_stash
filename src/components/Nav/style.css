@@ -1,7 +1,6 @@
 .navigator {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
   width: 100px;
   height: 100%;
 }
@@ -14,4 +13,21 @@
 
 .socials:hover svg path {
   fill: #22b300;
+}
+
+@media (max-width: 767px) {
+  .navigator {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .socials {
+    padding: 0 0;
+    width: 100px;
+    height: 100%;
+  }
+  .linkedin {
+    margin-right: 1rem;
+  }
 }
