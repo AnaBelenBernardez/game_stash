@@ -1,0 +1,60 @@
+button {
+  padding: 10px 20px;
+  background-color: black;
+  color: #fff;
+  border-radius: 1rem;
+  cursor: pointer;
+  font-size: 40px;
+  border: none;
+}
+
+button:hover {
+  background-color: #22b300;
+}
+
+/* Estilos para el formulario */
+form {
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: white;
+}
+
+/* Estilos para las etiquetas y campos de entrada del formulario */
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input[type="url"],
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  padding: 15px 45px;
+  background-color: #22b300;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+button[type="submit"]:hover {
+  background-color: black;
+}

@@ -2,7 +2,7 @@ import "./style.css";
 import { GameCard } from "../GameCard";
 import { List } from "../List";
 
-export const Timeline = ({ myGames }) => {
+const Timeline = ({ myGames }) => {
   return (
     <section className="timeline">
       <List
@@ -18,3 +18,5 @@ export const Timeline = ({ myGames }) => {
     </section>
   );
 };
+
+export default Timeline;

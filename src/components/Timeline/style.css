@@ -1,7 +1,16 @@
 .timeline ul {
-  max-width: 70%;
-  margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 2rem;
+  margin-top: 4rem;
+}
+
+@media (min-width: 768px) {
+  .timeline ul {
+    max-width: 70%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+  }
 }
