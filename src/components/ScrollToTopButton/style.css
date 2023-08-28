@@ -10,7 +10,7 @@
   cursor: pointer;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
-  font-size: 20px;
+  font-size: 50px;
   box-shadow: 0px 0px 20px rgba(82, 81, 81, 0.6);
   z-index: 9999;
 }
@@ -23,16 +23,9 @@
   opacity: 1;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 577px) {
   .scroll-to-top {
-    bottom: 10px;
-    right: 10px;
-  }
-}
-
-@media (min-width: 577px) and (max-width: 992px) {
-  .scroll-to-top {
-    bottom: 15px;
-    right: 15px;
+    bottom: 7%;
+    right: 5%;
   }
 }
