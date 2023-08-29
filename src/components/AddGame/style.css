@@ -1,10 +1,21 @@
+.add-game {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 100vh;
+  padding: 1rem;
+  margin: 1.5rem;
+  min-width: 90%;
+}
+
 button {
-  padding: 10px 20px;
+  padding: 10px 40px;
   background-color: black;
   color: #fff;
   border-radius: 1rem;
   cursor: pointer;
-  font-size: 40px;
+  font-size: 30px;
   border: none;
 }
 
@@ -12,7 +23,6 @@ button:hover {
   background-color: #22b300;
 }
 
-/* Estilos para el formulario */
 form {
   border-radius: 10px;
   margin-top: 20px;
@@ -20,7 +30,6 @@ form {
   background-color: white;
 }
 
-/* Estilos para las etiquetas y campos de entrada del formulario */
 label {
   display: block;
   margin-bottom: 10px;
@@ -29,7 +38,6 @@ label {
 
 input[type="text"],
 select {
-  width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -38,7 +46,6 @@ select {
 
 input[type="url"],
 input[type="number"] {
-  width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -46,7 +53,7 @@ input[type="number"] {
 }
 
 button[type="submit"] {
-  padding: 15px 45px;
+  padding: 8px 55px;
   background-color: #22b300;
   color: #fff;
   border: none;

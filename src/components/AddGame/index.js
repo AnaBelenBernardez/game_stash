@@ -11,8 +11,17 @@ const AddGame = ({ onAddGame }) => {
     text: "",
   });
 
-  const handleAddGame = () => {
-    setAddingGame(true);
+  const handleToggleForm = () => {
+    if (addingGame) {
+      setNewGame({
+        platform: "",
+        date: "",
+        title: "",
+        image: "",
+        text: "",
+      });
+    }
+    setAddingGame(!addingGame);
   };
 
   const handleDateChange = (e) => {
@@ -47,7 +56,9 @@ const AddGame = ({ onAddGame }) => {
 
   return (
     <div className="add-game">
-      <button onClick={handleAddGame}>Add new game</button>
+      <button onClick={handleToggleForm}>
+        {addingGame ? "Cancel" : "Add new game"}
+      </button>
       {addingGame && (
         <form onSubmit={handleSubmit}>
           <label>
