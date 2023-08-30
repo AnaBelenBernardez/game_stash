@@ -14,9 +14,9 @@ npm start
 
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Image 1: Screen with title and links to socials, button to add a new game and visualization of the first card of the games.](https://raw.githubusercontent.com/anabelenbernardez/game_stash/public/GS1.png)
-![Image 2: Screen with the form to add new games.](https://raw.githubusercontent.com/anabelenbernardez/game_stash/public/GS2.png)
-![Image 3: Screen with various card games](https://raw.githubusercontent.com/anabelenbernardez/game_stash/public/GS3.png)
+![Image 1: Screen with title and links to socials, button to add a new game and visualization of the first card of the games.](public/GS1.png)
+![Image 2: Screen with the form to add new games.](public/GS2.png)
+![Image 3: Screen with various card games](public/GS3.png)
 
 ## 💻 Tech stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
