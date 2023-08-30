@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://AnaBelenBernardez.github.io/game-stash",
+  "homepage": "https://AnaBelenBernardez.github.io/game_stash",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
