@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/game-stash/static/css/main.3484b906.css",
+    "main.js": "/game-stash/static/js/main.12371f64.js",
+    "static/media/gggrain.svg": "/game-stash/static/media/gggrain.ae56bf784a82cb228706.svg",
+    "index.html": "/game-stash/index.html",
+    "main.3484b906.css.map": "/game-stash/static/css/main.3484b906.css.map",
+    "main.12371f64.js.map": "/game-stash/static/js/main.12371f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3484b906.css",
+    "static/js/main.12371f64.js"
+  ]
+}
