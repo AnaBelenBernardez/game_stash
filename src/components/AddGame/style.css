@@ -36,16 +36,8 @@ label {
   font-weight: bold;
 }
 
-input[type="text"],
+input,
 select {
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-}
-
-input[type="url"],
-input[type="number"] {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -64,4 +56,19 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
   background-color: black;
+}
+
+@media (min-width: 672px) {
+  form {
+    padding: 40px;
+    width: 500px;
+    height: 500px;
+  }
+
+  input,
+  select {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 2px;
+  }
 }

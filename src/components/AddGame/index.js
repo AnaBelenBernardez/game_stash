@@ -64,6 +64,7 @@ const AddGame = ({ onAddGame }) => {
           <label>
             Platform:
             <input
+              placeholder="PC, PS2, N64..."
               required
               type="text"
               maxLength={30}
@@ -110,6 +111,7 @@ const AddGame = ({ onAddGame }) => {
           <label>
             Description:
             <input
+              placeholder="Between 100 and 300 characters"
               required
               type="text"
               minLength={100}
