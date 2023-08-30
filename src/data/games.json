@@ -124,5 +124,12 @@
     "title": "Super Mario Galaxy",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/SuperMarioGalaxy.jpg/220px-SuperMarioGalaxy.jpg",
     "text": "With its innovative gravity-based gameplay mechanics, imaginative level design, and a charming soundtrack, Super Mario Galaxy offers a captivating and whimsical journey through galaxies filled with platforming challenges and memorable characters."
+  },
+  {
+    "platform": "Game & Watch",
+    "date": "1982",
+    "title": "Donkey Kong",
+    "image": "https://mario.wiki.gallery/images/4/4e/G%26WC_Donkey_Kong_Gameplay.png",
+    "text": "Its gameplay is similar to that of the arcade version: Donkey Kong has captured Pauline, and Mario must rescue her."
   }
 ]
