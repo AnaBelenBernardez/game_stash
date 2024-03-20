@@ -1,6 +1,9 @@
 # 🕹 My Videogame Stash 
 
 _Small compilation of my favorite games over the years developed with Create React App (CRA)._
+<div align="center">
+    <img src="public/GS0.png" />
+</div>
 
 ## ⚙ Inicialization
 - Enter into the console:
