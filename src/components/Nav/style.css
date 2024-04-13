@@ -17,17 +17,14 @@
 
 @media (max-width: 767px) {
   .navigator {
-    flex-direction: row;
     justify-content: space-between;
     align-items: center;
   }
 
   .socials {
     padding: 0 0;
-    width: 100px;
     height: 100%;
-  }
-  .linkedin {
-    margin-right: 1rem;
+    width: 2rem;
+    margin-right: 2rem;
   }
 }
