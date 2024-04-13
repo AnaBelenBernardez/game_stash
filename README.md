@@ -3,6 +3,8 @@
 _Small compilation of my favorite games over the years developed with Create React App (CRA)._
 <div align="center">
     <img src="public/GS0.png" />
+    
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/u7lEEm4qMUM?si=3zYoB26fY1Wi8ljq)
 </div>
 
 ## ⚙ Inicialization
